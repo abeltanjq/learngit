@@ -13,4 +13,10 @@ Based on https://guides.github.com/introduction/flow/
 2. Create a new branch to work on a new feature or fix an issue.  **NOTE**: This is not the same as `developement` branch.
 3. Add commits to your newly created branch as you edit your files.
     * **NOTE**: *Do not* commit into `master` or `development` branch while working on new features or fixes. `master` is only used for deployment.
-4. Open a pull/merge request.
+4. Open a pull/merge request to the `development` branch.
+5. Code review.
+   #### Things to review
+   * Coding style
+   * Unit tests
+   * Bugs
+   * **NOTE**: Developer can continue to fix bugs and resolve issues during the review process. Commit the changes to the respective feature branch.

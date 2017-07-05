@@ -19,4 +19,4 @@ Based on https://guides.github.com/introduction/flow/
    * Coding style
    * Unit tests
    * Bugs
-   * **NOTE**: Developer can continue to fix bugs and resolve issues during the review process. Commit the changes to the respective feature branch.
+   * **NOTE**: Developer can continue to fix bugs and resolve issues during the review process. Commit the changes to the respective feature branch.
